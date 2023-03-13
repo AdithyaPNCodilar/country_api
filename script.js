@@ -34,7 +34,7 @@ request.onload = function() {
           <button>Close</button>
         `;
         
-        // Show popup
+        // Show popup ..
         popup.style.display = 'block';
         
         // Add click event listener to popup close button
@@ -45,7 +45,7 @@ request.onload = function() {
         });
       });
       
-      // Add card to country container
+      // Add card to country container 
       countryContainer.appendChild(card);
     });
   } else {
